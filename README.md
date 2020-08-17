@@ -17,4 +17,7 @@
 <img align="left" alt="HTML5" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img align="left" alt="CSS3" width="25px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
 <img align="left" alt="SCSS" width="25px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png">
-<img align="left" alt="SCSS" width="25px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png">
+<img align="left" alt="JavaScript" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+<img align="left" alt="TypeScript" width="25px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
+<img align="left" alt="React" width="25px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png">
+<img align="left" alt="MaterialUI" width="25px" src="https://material-ui.com/static/logo.png">
