@@ -7,4 +7,4 @@
 
 ### Get in Contact
 
-<img align="left" alt="E-Mail" src="https://image.flaticon.com/icons/svg/80/80599.svg" /> Email
+<img align="left" alt="E-Mail" width="22px" src="https://image.flaticon.com/icons/svg/80/80599.svg"> florian.kulig@web.de
