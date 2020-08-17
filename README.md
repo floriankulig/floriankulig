@@ -1,6 +1,5 @@
-### <Florian Kulig />
-
-Here are some ideas to get you started:
+# <Florian Kulig />
+## Who I am
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React
