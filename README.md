@@ -1,5 +1,5 @@
-# <Florian Kulig />
-## Who I am
+
+# Who I am
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React
