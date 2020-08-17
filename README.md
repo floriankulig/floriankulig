@@ -7,12 +7,12 @@
 
 ### Contact
 
-<img align="left" alt="E-Mail" width="22px" src="https://image.flaticon.com/icons/svg/80/80599.svg"> florian.kulig@web.de
-<img align="left" alt="Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1898/PNG/512/instagram_121064.png"> https://www.instagram.com/klg.flo/]
+- <img align="left" alt="E-Mail" width="22px" src="https://image.flaticon.com/icons/svg/80/80599.svg"> florian.kulig@web.de
+- <img align="left" alt="Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1898/PNG/512/instagram_121064.png">https://www.instagram.com/klg.flo/
 
 ### Languages/Tools
 
-<img align="left" alt="VSCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
+- <img align="left" alt="VSCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="VSCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png">
 <img align="left" alt="HTML5" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img align="left" alt="CSS3" width="25px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
