@@ -1,4 +1,4 @@
-## 16 year old student doing coding
+## 16 year old student coding in his freetime
 
 - 🔭 I’m currently working on extending my Todoist Clone with more functionality
 - 🌱 I’m currently learning React/TypeScript
