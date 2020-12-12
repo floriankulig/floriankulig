@@ -1,6 +1,6 @@
 ## 16 year old student coding in his freetime
 
-- 🔭 I’m currently working on extending my Personal Portfolio
+- 🔭 I’m currently working on some private projects 
 - 🌱 I’m currently learning React/TypeScript
 - 🤔 I’m looking for help with the (german) software job market
 - ⚡ Fun fact: I like playing football
