@@ -8,7 +8,6 @@
 ### Contact
 
 - <img align="left" alt="E-Mail" width="22px" src="https://image.flaticon.com/icons/svg/80/80599.svg"> florian.kulig@web.de
-- <img align="left" alt="Website" width="22px" src="https://cdn4.iconfinder.com/data/icons/web-pages-seo/512/33-512.png">https://floriankulig.github.io/portfolio
 - <img align="left" alt="Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1898/PNG/512/instagram_121064.png">https://www.instagram.com/klg.flo/
 
 ### Languages/Tools
