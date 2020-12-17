@@ -20,6 +20,7 @@
 <img align="left" alt="JavaScript" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 <img align="left" alt="TypeScript" width="25px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
 <img align="left" alt="React" width="25px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png">
+<img align="left" alt="Styled Components" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
 <img align="left" alt="Styled Components" width="25px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 <img align="left" alt="Django" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
 <img align="left" alt="Python" width="25px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
