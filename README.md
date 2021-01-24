@@ -1,6 +1,6 @@
 ## 16 year old student coding in his freetime
 
-- 🔭 I’m currently working on a freelance project <img alt="VSCode" width="15px" src="https://www.dictionary.com/e/wp-content/uploads/2018/10/shushing-face-emoji-300x300.png">
+- 🔭 I’m currently working on the frontend of https://beta-app-store.com/
 - 🌱 I’m currently learning Formik
 - 🤔 I’m looking for help with the (german) software job market
 - ⚡ Fun fact: I like playing football
