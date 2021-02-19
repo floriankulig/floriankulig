@@ -1,7 +1,7 @@
 ## 16 year old student coding in his freetime
 
-- 🔭 I’m currently working on the frontend of https://beta-app-store.com/
-- 🌱 I’m currently learning Formik
+- 🔭 I’m currently working on some personal projects
+- 🌱 I’m currently learning Framer Motion
 - 🤔 I’m looking for help with the (german) software job market
 - ⚡ Fun fact: I like playing football
 
