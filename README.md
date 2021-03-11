@@ -25,5 +25,3 @@
 <img align="left" alt="Styled Components" width="25px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 <img align="left" alt="Firebase" width="25px" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png">
 <img align="left" alt="Python" width="25px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=floriankulig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
