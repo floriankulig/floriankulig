@@ -1,6 +1,6 @@
 ## 16 year old student coding in his freetime
 
-- 🔭 I’m currently doing some design work
+- 🔭 I’m currently doing some design work 🎨
 - 🌱 I’m currently learning Framer Motion
 - 🤔 I’m looking for help with the (german) software job market
 - ⚡ Fun fact: I like playing football
