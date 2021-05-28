@@ -1,4 +1,4 @@
-## 16 year old student coding in his freetime
+## 17 year old student coding in his freetime
 
 - 🔭 I’m currently doing some design work 🎨
 - 🌱 I’m currently learning Framer Motion
