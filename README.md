@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently doing some design work 🎨
 - 🌱 I’m currently learning Framer Motion
-- 🤔 I’m looking for help with the (german) software job market
 - ⚡ Fun fact: I like playing football
 
 ### Contact
