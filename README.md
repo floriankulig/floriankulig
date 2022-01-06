@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning Framer Motion
 - ⚡ Fun fact: I like playing football
 
+<!---
 ### Contact
 
 - <img align="left" alt="E-Mail" width="22px" src="https://image.flaticon.com/icons/svg/80/80599.svg"> florian.kulig@web.de
 - <img align="left" alt="Website" width="22px" src="https://static.thenounproject.com/png/423483-200.png"> https://floriankulig.github.io/portfolio/
-
+--->
 ### Languages/Tools
 
 <img align="left" alt="VSCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
