@@ -22,5 +22,5 @@
 <img align="left" alt="React" width="25px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png">
 <img align="left" alt="NextJS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
 <img align="left" alt="Styled Components" width="25px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
-<img align="left" alt="Firebase" width="25px" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png">
+<img align="left" alt="Firebase" width="25px" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png">
 <img align="left" alt="Python" width="25px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
