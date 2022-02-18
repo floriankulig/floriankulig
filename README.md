@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Testiply
 - 🌱 I’m currently learning Framer Motion
-- ⚡ Fun fact: I like playing football
+- ⚡ Interests: Football ⚽, Stocks 📈, Weights 
 
 <!---
 ### Contact
