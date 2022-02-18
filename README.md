@@ -1,6 +1,6 @@
 ## 17 year old student coding in his freetime
 
-- 🔭 I’m currently doing some design work 🎨
+- 🔭 I’m currently working on Testiply
 - 🌱 I’m currently learning Framer Motion
 - ⚡ Fun fact: I like playing football
 
