@@ -1,4 +1,4 @@
-## 17 year old student coding in his freetime
+## 18 year old student coding in his freetime
 
 - 🔭 I’m currently working on Testiply
 - 🌱 I’m currently learning Framer Motion
