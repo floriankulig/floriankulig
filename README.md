@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a client project
 - 🌱 I’m currently learning Framer Motion
-- ⚡ Interests: Football ⚽, Stocks 📈, Weights 💪, Cars/F1 🏎
+- ⚡ Interests: Football ⚽, Stocks 📈, Cars 🏎
 
 <!---
 ### Contact
