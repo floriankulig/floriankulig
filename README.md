@@ -1,7 +1,7 @@
-## 19 year old student coding in his freetime
+## 20 year old student coding in his freetime
 
-- 🔭 I’m currently working on a client project
-- 🌱 I’m currently learning Framer Motion
+- 🔭 I’m currently working on a uni automotive project 
+- 🌱 I’m currently learning everything about ML and Python
 - ⚡ Interests: Football ⚽, Stocks 📈, Cars 🏎
 
 <!---
