@@ -1,3 +1,5 @@
+<img src="./banner.png">
+
 # 👨🏽‍💻 Developer and Creative Thinker 💡
 - 🔭 I’m currently working on a uni automotive project 
 - 🌱 I’m currently learning everything about ML and Python
