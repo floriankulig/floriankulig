@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./banner.png" alt="[Banner Image]">
 
 # 👨🏽‍💻 Developer and Creative Thinker 💡
 - 🔭 I’m currently working on a uni automotive project 
