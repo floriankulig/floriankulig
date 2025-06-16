@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="[Banner Image]">
 
-# 👨🏽‍💻 Developer and Creative Thinker 💡
+# 👨🏽‍💻 Developer and Creative 💡
 - 🔭 I’m currently working on a uni automotive project 
 - 🌱 I’m currently learning everything about ML and Python
 - ⚡ Interests: Football ⚽, Stocks 📈, Cars 🏎
