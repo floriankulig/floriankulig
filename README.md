@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="[Banner Image]">
 
 # 👨🏽‍💻 Creative Developer 💡
-- _I like to do hard things to learn new stuff_
+_*I like to do hard things to learn new stuff*_
 - 🔭 I’m currently working on a uni automotive project [Neural Navi](https://github.com/floriankulig/neural-navi) 
 - 🌱 I’m currently expanding my knowledge in Deep Learning
 - ⚡ Interests: Football ⚽, Finance 📈, Cars 🏎
