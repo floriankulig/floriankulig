@@ -1,9 +1,10 @@
 <img src="./banner.png" alt="[Banner Image]">
 
 # 👨🏽‍💻 Creative Developer 💡
-- 🔭 I’m currently working on a uni automotive project 
-- 🌱 I’m currently learning everything about ML and Python
-- ⚡ Interests: Football ⚽, Stocks 📈, Cars 🏎
+- _I like to do hard things to learn new stuff_
+- 🔭 I’m currently working on a uni automotive project [Neural Navi](https://github.com/floriankulig/neural-navi) 
+- 🌱 I’m currently expanding my knowledge in Deep Learning
+- ⚡ Interests: Football ⚽, Finance 📈, Cars 🏎
 
 
 ## 💻 Things I have worked with:
