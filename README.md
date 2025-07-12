@@ -2,8 +2,9 @@
 
 # 👨🏽‍💻 Creative Developer 💡
 _*I like to do hard things to learn new stuff*_
-- 🔭 I’m currently working on a uni automotive project [Neural Navi](https://github.com/floriankulig/neural-navi) 
-- 🌱 I’m currently expanding my knowledge in Deep Learning
+- 🔭 I’m currently working on a hardware-aware quantisation framework
+- 🌱 I’m currently expanding my knowledge in everything around Deep Learning
+- 💪 Project I'm most proud of: [Neural Navi](https://github.com/floriankulig/neural-navi), a driver assistance system aiming to make driving safer and more economic 
 - ⚡ Interests: Football ⚽, Finance 📈, Cars 🏎
 
 
