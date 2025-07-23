@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="[Banner Image]">
+<!--<img src="./banner.png" alt="[Banner Image]">-->
 
 # 👨🏽‍💻 Creative Developer 💡
 _*I like to do hard things to learn new stuff*_
