@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 Creative Developer 💡
 _*I like to do hard things to learn new stuff*_
-- 🔭 I’m currently researching to work on a hardware-aware quantisation framework
+- 🔭 I’m currently researching to work on a hardware-aware quantisation framework for embedded deep learning
 - 👨‍🎓 Simultaneously working on my bachelors thesis, building an optimized frontend component library for the enterprise context
 - 🌱 I’m currently expanding my knowledge in everything around Deep Learning
 - 💪 Project I'm most proud of (until my next one): [Neural Navi](https://github.com/floriankulig/neural-navi), a driver assistance system aiming to make driving safer and more economic using multimodal deep learning
