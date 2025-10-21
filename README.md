@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 Creative Developer 💡
 _*I like to do hard things to learn new stuff*_
-- 🔭 I’m currently researching to work on a SLAM-like 3D-Scene-Perception-Net leveraging VLMs
+- 🔭 I’m currently researching to work on a new Object Tracking Neural Network for AntiUAV Usecases
 - 🌱 I’m currently expanding my knowledge in everything around Deep Learning
 - 💪 Project I'm most proud of (until my next one): [Neural Navi](https://github.com/floriankulig/neural-navi), a driver assistance system aiming to make driving safer and more economic using multimodal deep learning
 - ⚡ Interests: Football ⚽, Finance 📈, Cars 🏎
