@@ -1,6 +1,6 @@
 <!--<img src="./banner.png" alt="[Banner Image]">-->
 
-# 👨🏽‍💻 Creative Developer 💡
+# 👨🏽‍💻 Software Engineer 💡
 _*I like to do hard things to learn new stuff*_
 - 🔭 I’m currently researching to work on a new Object Tracking Neural Network for AntiUAV Usecases
 - ➡️ Building my first open-source library for the best shortcut experience in web apps
